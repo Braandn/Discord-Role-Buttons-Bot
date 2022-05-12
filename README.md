@@ -37,7 +37,7 @@ python3 -m pip install -U novus
 ```
 > Edit Line 12 / 13 in Bot.py
 
-
+https://github.com/Braandn/Discord-Role-Buttons-Bot/blob/46e2f535c1c49d7b4e69ee248dd6d44adc2b5c75/Bot.py#L12-L13
 
 > Then start the Bot
 ```
